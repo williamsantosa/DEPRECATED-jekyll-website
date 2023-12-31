@@ -10911,16 +10911,16 @@ hr.divider-light {
   }
   #mainNav.navbar-shrink {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #222425;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #212529;
+    color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
     color: rgb(209,54,57);
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #fff;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
     color: rgb(209,54,57);

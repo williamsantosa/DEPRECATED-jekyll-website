@@ -14,10 +14,10 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Who am I?
-    text: Hey! 👋 My name is Will. I did (and still do) a lot of things. I sang tenor in choir, practiced martial arts, played video games, went on hikes, wrote stories, dreamt of goofy, illogical inventions, and much more. Yet, I decided to hone software development as my craft as I fell in love with solving problems and continuously learning new things. That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to my current goal of mastering my craft.
+    text: Hey! 👋 My name is Will. I did (and still do) a lot of things. I sang tenor in choir, practiced martial arts, played video games, went on hikes, wrote stories, dreamt of goofy, illogical inventions, and much more. Yet, I decided to pursue learning software as I fell in love with solving problems and continuously learning new things. That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to my current goal of mastering my craft.
     text2: My current goals are to graduate from my master's program, work as a software engineer at a game company that makes people happy, and to build something that entices me to wake up in morning.
     text3: >
-      Fun fact: I tried to replicate a certain company's color scheme and design on my website. 😊 Can you guess what it is?
+      Fun fact: I tried to replicate a certain game company's color scheme and design on my website. 😊 Can you guess what who it is?
     actions:
       - title: Learn About What I'm Working On
         url: '#projects'

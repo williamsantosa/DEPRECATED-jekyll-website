@@ -5,13 +5,13 @@
 header:
 - title: About
   url: /#about
-- title: Education
-  url: /#education
 - title: Experience
   url: /#experience
+- title: Education
+  url: /#education
 - title: Projects
   url: /#projects
-- title: Contacts
+- title: Contact
   url: /#contacts
-- title: Links
-  url: /links
+- title: Resume
+  url: /resume
