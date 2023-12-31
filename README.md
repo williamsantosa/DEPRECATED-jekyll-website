@@ -1,5 +1,45 @@
 # Creative Theme for Jekyll
 
+https://www.colourlovers.com/palette/4844686/Riot_Games_Pallet
+
+To create a new page create a new Markdown file (e.g `links.md`).
+
+darker red
+
+D13639
+HEX
+209,54,57
+RGB
+
+lighter red
+
+F12B15
+HEX
+241,43,21
+RGB
+
+white
+
+F0F0F0
+HEX
+240,240,240
+RGB
+
+lighter black
+
+2D2D2D
+HEX
+45,45,45
+RGB
+
+black
+
+000000
+HEX
+0,0,0
+RGB
+
+
 A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).
 
 An attractive one page Bootstrap theme perfect for creative portfolios and businesses

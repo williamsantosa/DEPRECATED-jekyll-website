@@ -10,14 +10,17 @@ header:
 
 
 sections:
-  - type: call-to-action.html
+  - type: about.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Who am I?
+    text: Hey! 👋 My name is Will. I did (and still do) a lot of things. I sang tenor in choir, practiced martial arts, played video games, went on hikes, wrote stories, dreamt of goofy, illogical inventions, and much more. Yet, I decided to hone software development as my craft as I fell in love with solving problems and continuously learning new things. That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to my current goal of mastering my craft.
+    text2: My current goals are to graduate from my master's program, work as a software engineer at a game company that makes people happy, and to build something that entices me to wake up in morning.
+    text3: >
+      Fun fact: I tried to replicate a certain company's color scheme and design on my website. 😊 Can you guess what it is?
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Learn About What I'm Working On
+        url: '#projects'
         class: btn-dark
 
   - type: services.html
@@ -138,22 +141,24 @@ sections:
           and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
+    section_id: contacts!
+    title: Contact Me
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Interested in talking to or knowing more about me? Check out my links down below!
     actions:
-    - title: +1 (202) 555-014
+    - title: +1 (925) 399-7269
       icon: bi-telephone-fill
-    - title: E-Mail
+    - title: Email
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
-      url: '#'
-    - title: Facebook
-      icon: bi-facebook
-      url: '#'
+      url: mailto:williamwsantosa@gmail.com
+    - title: GitHub
+      icon: bi-github
+      url: 'https://github.com/williamsantosa'
+      new_window: true
+    - title: LinkedIn
+      icon: bi-linkedin
+      url: 'https://www.linkedin.com/in/williamsantosa/'
+      new_window: true
+
 
 ---
