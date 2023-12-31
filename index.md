@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: WILLIAM SANTOSA
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Software Engineer, Gamer & Leisure Programmer
   action: # action button is optional
-    label: Find Out More
+    label: Read About Me
     url: '#about'
 
 
@@ -19,7 +18,7 @@ sections:
     actions:
       - title: Get Started!
         url: '#page-top'
-        class: btn-light
+        class: btn-dark
 
   - type: services.html
     section_id: services
