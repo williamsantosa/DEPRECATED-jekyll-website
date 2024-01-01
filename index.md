@@ -31,30 +31,30 @@ sections:
     background_style: bg-primary text-primary
     last_image: assets/img/down-arrow.png
     actions:
-      - image: assets/img/portfolio/thumbnails/ucla-seal.jpg
+      - image: assets/img/portfolio/thumbnails/roblox.jpg
         title: >+
           2024
           **Roblox**
         text: >-
           *Software Engineering Intern*
         text2: >-
-          I've played Roblox since 2011. One of the companies I've always wanted to work at. Excited for this upcoming summer! ٩(^ᗜ^ )و
-      - image: assets/img/portfolio/thumbnails/ucsc-seal.jpg
+          I've played Roblox since 2011 and have always wanted to work with them! Excited for this upcoming summer! ٩(^ᗜ^ )و
+      - image: assets/img/portfolio/thumbnails/maxar.jpg
         title: >+
           2022
           **Maxar Technologies**
         text: >-
           *Software Engineering Intern*
         text2: >-
-          Here I designed and developed a database installation tool for some new Intelsat satellites launched by SpaceX 🚀. Automated and optimized weekly database installations of telemetry data. Learned about CI/CD, Agile, pull requests, code reviews, and unit/manual testing.
-      - image: assets/img/portfolio/thumbnails/ucla-seal.jpg
+          At Maxar I designed and developed a database installation tool for the new Intelsat satellites launched by SpaceX 🚀. Automated and optimized weekly database installations of telemetry data. Learned about CI/CD, Agile, pull requests, code reviews, and unit/manual testing.
+      - image: assets/img/portfolio/thumbnails/scipp.jpg
         title: >+
           2022
           **Santa Cruz Institute of Particle Physics**
         text: >-
           *Research Assistant*
         text2: >-
-          Developed machine learning program utilizing neural networks to identify factors affecting whether particle is Higgs Boson or Background with approximately 80% validation accuracy from sample size of 200,000+ events. Weekly meetings with Professor Jason Nielsen and team to discuss approach toward identifying correlating variables. Keras, TensorFlow, matplotlib, pandas, and dbf.
+          Worked with Professor Jason Nielsen to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
       - image: assets/img/portfolio/thumbnails/ucsc-seal.jpg
         title: >+
           2021
@@ -63,14 +63,14 @@ sections:
           *Peer Navigator*
         text2: >-
           Held weekly office hours to help students with acclimating to university and homework. Graded and gave feedback to 50+ students from pool of 200+ weekly. Planned and supervised university affiliated events.
-      - image: assets/img/portfolio/thumbnails/ucsc-seal.jpg
+      - image: assets/img/portfolio/thumbnails/koos.jpeg
         title: >+
           2017-2021
           **Koo's Martial Arts**
         text: >-
           *Instructor & Coach*
         text2: >-
-          Taught students forms, techniques, and hard-working philosophy of Taekwondo. Supervised and coached students at tournaments and events. Volunteered from 2017 - 2020, then worked part-time from 2020 - 2021.
+          Taught students forms, techniques, and hard-working philosophy of Taekwondo. 🥋 Supervised and coached students at tournaments and events.
 
   - type: timeline2.html
     section_id: education
@@ -101,13 +101,13 @@ sections:
     section_id: portfolio
     background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Not Clash v2
+        text: A League of Legends bot powered by Discord's API 🤖💥
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: 'https://github.com/williamsantosa/Not-Clash-v2/blob/main/'
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
@@ -123,10 +123,6 @@ sections:
       - title: Project 5
         text: This is a very short project description.
         icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
         url: '#'
 
   - type: contact.html
