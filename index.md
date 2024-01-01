@@ -109,22 +109,10 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: 'https://github.com/williamsantosa/Not-Clash-v2/blob/main/'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: NoteScript
+        text: A full stack web application that allows users to easily generate notes for transcripts 🖊️
         icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
+        url: 'https://github.com/williamsantosa/TFC-Boston-Hackathon-2023'
 
   - type: contact.html
     section_id: contact
