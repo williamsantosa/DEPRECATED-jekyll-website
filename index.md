@@ -99,7 +99,8 @@ sections:
   - type: portfolio.html
     # this section has always ID 'portfolio'
     section_id: portfolio
-    background_style: bg-dark
+    background_style: bg-primary
+    title: Projects
     projects:
       - title: Not Clash v2
         text: A League of Legends bot powered by Discord's API 🤖💥
