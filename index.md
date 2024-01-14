@@ -14,10 +14,12 @@ sections:
     section_id: about
     background_style: bg-dark
     title: Who am I?
-    text: Hey! 👋 My name is Will. I did (and still do) a lot of things. I sang tenor in choir, practiced martial arts, played video games, went on hikes, wrote stories, dreamt of goofy, illogical inventions, and much more. 
+    text: >
+      Hi! 👋 My name is Will. I do a lot of things. I sang tenor in choir, practiced taekwondo and kung fu, played video games, wrote stories, dreamt of goofy things, and much more. 
     text2: >
-      Yet, I decided to pursue learning software as I fell in love with solving problems and continuously learning new things. That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to wanting to master my craft.
-    text3: My current goals are to graduate from my master's program, work as a software engineer at a game company, and to build something that entices me to wake up in morning.
+      I decided to pursue learning software during university as I fell in love with solving problems and continuously learning new things. That, coupled with my lifelong vision of inspiring and making people happy through my work, has led me to wanting to master my craft.
+    text3: >
+      My current goals are to graduate from my master's program, work as a software engineer at a game company, and to build something(s) that entices me to wake up in morning.
     text4: >
       Fun fact: I tried to replicate a certain game company's color scheme and design on my website. Can you guess what who it is? 👊
     actions:
@@ -46,7 +48,7 @@ sections:
         text: >-
           *Software Engineering Intern*
         text2: >-
-          At Maxar I designed and developed a database installation tool for the new Intelsat satellites launched by SpaceX 🚀. Automated and optimized weekly database installations of telemetry data. Learned about CI/CD, Agile, pull requests, code reviews, and unit/manual testing.
+          At Maxar I designed and developed a database installation tool for the new Intelsat satellites launched by SpaceX. 🚀 I automated and optimized weekly database installations of telemetry data and learned about CI/CD, Agile, pull requests, code reviews, and unit/manual testing.
       - image: assets/img/portfolio/thumbnails/scipp.jpg
         title: >+
           2022
@@ -54,7 +56,7 @@ sections:
         text: >-
           *Research Assistant*
         text2: >-
-          Worked with Professor Jason Nielsen to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
+          Here I worked with Professor Jason Nielsen to create a machine learning program with neural networks that identifies factors correlating to the formation of the Higgs Boson with an approximately 80% validation accuracy from sample size of 200,000+ events.
       - image: assets/img/portfolio/thumbnails/ucsc-seal.jpg
         title: >+
           2021
@@ -62,7 +64,7 @@ sections:
         text: >-
           *Peer Navigator*
         text2: >-
-          Held weekly office hours to help students with acclimating to university and homework. Graded and gave feedback to 50+ students from pool of 200+ weekly. Planned and supervised university affiliated events.
+          I held weekly office hours to help frosh acclimate to university and homework. Graded and gave feedback to 50+ students from pool of 200+ weekly. Planned and supervised university affiliated events.
       - image: assets/img/portfolio/thumbnails/koos.jpeg
         title: >+
           2017-2021
@@ -85,7 +87,7 @@ sections:
         text: >-
           *Master of Science in Computer Science*
         text2: >-
-          Having fun learning and meeting people 🙂
+          Learning new things and meeting people 🙂
       - image: assets/img/portfolio/thumbnails/ucsc-seal.jpg
         title: >+
           2020-2023
@@ -119,7 +121,7 @@ sections:
     title: Contact Me
     background_style: bg-dark text-primary
     text: >-
-      Interested in talking to or knowing more about me? Check out my links down below!
+      Interested in reaching out and knowing more about me? Check out my socials below!
     actions:
     - title: +1 (925) 399-7269
       icon: bi-telephone-fill
