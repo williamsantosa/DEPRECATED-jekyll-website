@@ -98,23 +98,28 @@ sections:
           Graduated with Highest Honors in Major. Coursework includes: 
           Database Systems, Computational Models and Analysis of Algorithms, Principles of Computer System Design, Computer Architecture, and Computer Graphics.
 
-  - type: portfolio.html
+  - type: projects.html
     # this section has always ID 'portfolio'
-    section_id: portfolio
+    section_id: projects
     background_style: bg-primary
     title: Projects
     projects:
       - title: Not Clash v2
-        text: A League of Legends bot powered by Discord's API 🤖💥
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: 'https://github.com/williamsantosa/Not-Clash-v2/blob/main/'
+        text: >
+          Second iteration of the original Not Clash discord bot. Written in JavaScript and utilizes Node.js, discord.js, and SQLite. Facilitates League of Legends matches and stores player and match information in SQLite database.
+        link: https://github.com/williamsantosa/Not-Clash-v2
       - title: NoteScript
-        text: A full stack web application that allows users to easily generate notes for transcripts 🖊️
-        icon: 2.jpg
-        url: 'https://github.com/williamsantosa/TFC-Boston-Hackathon-2023'
+        text: >
+          Full stack web application allowing users to easily generate notes for transcripts. Created for the Civic Tech Hackathon hosted by Tech For Change at Boston University, Feb 25 - 26, 2023.
+        link: https://github.com/williamsantosa/TFC-Boston-Hackathon-2023
+      - title: YouToo
+        text: >
+          An application that downloads YouTube videos via streams using an easy-to-use and intuitive graphical user interface.
+        link: https://github.com/williamsantosa/YouToo
+      - title: UCSC-CS
+        text: >
+          A collaborative guide to the University of California, Santa Cruz's Computer Science majors.
+        link: https://github.com/williamsantosa/ucsc-cs
 
   - type: contact.html
     section_id: contact

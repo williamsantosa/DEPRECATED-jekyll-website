@@ -1285,7 +1285,7 @@ progress {
   }
   .col-lg-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 50%;
   }
   .col-lg-5 {
     flex: 0 0 auto;
@@ -11003,4 +11003,21 @@ header.masthead h1, header.masthead .h1 {
 .space-between {
   display: flex;
   justify-content: space-between;
+}
+
+.projects-wrapper {
+  margin: auto;
+  max-width: 70%;
+  max-height: 100%;
+}
+
+.projects-img {
+  max-width: 50%;
+  max-height: 100%;
+  float: left;
+  margin-right: 15px;
+}
+
+.projects-width {
+  max-width: 30%;
 }
